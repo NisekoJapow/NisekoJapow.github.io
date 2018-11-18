@@ -1,0 +1,82 @@
+
+
+body {
+	margin: 0;
+	background: seagreen;
+	display: inline;
+}
+
+.head-container {
+	position: fixed;
+	width: 100%;
+	background-color: darkslateblue;
+	margin-top: 0;
+	
+}
+
+/*Could get Miyuki to draw her logo/banner design to add here*/
+header {
+	margin: 0;
+	text-align: center;
+	font-family: Roboto, Arial, Helvetica, Sans_serif;
+	font-size: 25px;
+
+}
+
+h1 {
+	margin: 10px;
+	font-weight: lighter;
+}
+
+nav {
+	display: block;
+	background: lightcoral;
+	border-bottom: solid;
+	border-top: solid;
+	list-style-type: none;
+
+}
+
+a {
+	color: black;
+	text-decoration: none;
+}
+
+a:hover {
+	color: blue;
+}
+
+ul {
+	margin: 0;
+	text-align: center ;
+	padding: 0;
+
+}
+
+
+nav ul li {
+	
+	display: inline-block;
+	padding: 5px;
+	margin: 0;
+	
+	
+	}
+
+
+
+ img {
+	display: block;
+	padding: 20px;
+	margin-top: 120px;
+	width: 45%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+
+footer {
+	color: blue;
+	clear: both;
+}

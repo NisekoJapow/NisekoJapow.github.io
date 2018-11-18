@@ -1,0 +1,53 @@
+
+
+/*contains all images*/
+.product-container {
+	margin: 0;
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+
+/*Single images*/
+figure {
+	display: table-caption;
+	margin:0;
+	width: 30%;
+	height: auto;
+	padding: 10px;
+	align-content: center;
+}
+
+figure figcaption {
+	text-align: center;
+	margin: 0 auto;
+	padding: 10px;
+	width: 70%;
+	height: auto;
+}
+
+ img {
+	margin: 0 auto;
+	padding: 5px;
+	width: 70%;
+	height: auto;
+}
+/* "Gallery" Subheading*/
+.Gallery {
+	margin-top: 120px;
+	font-family: Roboto, Arial, Helvetica, Sans_serif;
+	text-align: center;
+	font-size: xx-large;
+
+}
+
+/*I don't know why I need this, but it closes space in the "Gallery" subheading*/
+h2 {
+	margin:0;
+	font-weight: lighter;
+}
+
+
+.product-container img:hover {
+	opacity: 0.7;
+}
