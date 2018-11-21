@@ -323,7 +323,7 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -396,8 +396,8 @@
 						"selection":
 						[
 							[
-								3807,
-								3807
+								1482,
+								1482
 							]
 						],
 						"settings":
@@ -406,10 +406,10 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 2264.0,
+						"translation.y": 782.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
@@ -438,7 +438,7 @@
 						"translation.y": 2322.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
