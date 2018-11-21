@@ -1,8 +1,14 @@
-
+@font-face{
+	font-family: "ADAM";
+	src: url(../Fonts/ADAM.CG PRO.otf);
+	font-family: "Komoda";
+	src: url(../Fonts/Komoda.otf);
+}
 
 body {
 	margin: 0;
-	background: seagreen;
+	background-image: url(../Images/Untitled6.jpg);
+	background-repeat: repeat;
 	display: inline;
 }
 
@@ -11,7 +17,7 @@ body {
 	width: 100%;
 	background-color: darkslateblue;
 	margin-top: 0;
-	
+		
 }
 
 /*Could get Miyuki to draw her logo/banner design to add here*/
@@ -25,7 +31,7 @@ header {
 
 h1 {
 	margin: 10px;
-	font-weight: lighter;
+	font-family: "ADAM";
 }
 
 nav {

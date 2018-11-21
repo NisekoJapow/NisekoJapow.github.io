@@ -1,0 +1,587 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"font-",
+				"font-family\tproperty"
+			],
+			[
+				"onclick",
+				"onclick\tAttr"
+			],
+			[
+				"transitio",
+				"transition-delay"
+			],
+			[
+				"color",
+				"color-profile"
+			],
+			[
+				"align",
+				"align-self"
+			],
+			[
+				"object",
+				"object-fit"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"fig",
+				"figcaption\tTag"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"d",
+				"dotted"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"le",
+				"flex-start"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"space",
+				"space-around"
+			],
+			[
+				"alig",
+				"align-items"
+			],
+			[
+				"sp",
+				"space-around"
+			],
+			[
+				"fel",
+				"flex-start"
+			],
+			[
+				"i",
+				"initial"
+			],
+			[
+				"in",
+				"inherit"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"col",
+				"table-column-group"
+			],
+			[
+				"sty",
+				"list-style-type"
+			],
+			[
+				"fle",
+				"flex-wrap"
+			],
+			[
+				"fi",
+				"figure\tTag"
+			],
+			[
+				"inline",
+				"inline-grid"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Styles/Main.css",
+			"settings":
+			{
+				"buffer_size": 1059,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Miyuki's Website.sublime-project",
+			"settings":
+			{
+				"buffer_size": 45,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Products-Beanies.html",
+			"settings":
+			{
+				"buffer_size": 4521,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Products-Headbands.html",
+			"settings":
+			{
+				"buffer_size": 3670,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 624,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Products.html",
+			"settings":
+			{
+				"buffer_size": 1235,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"materi",
+				"Material Theme: Configuration"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			],
+			[
+				"contr",
+				"Package Control: Remove Channel"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 410.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Patrick/Desktop/nisekojapow.github.io",
+		"/C/Users/Patrick/Desktop/nisekojapow.github.io/Styles"
+	],
+	"file_history":
+	[
+		"/D/Webpage Practice/Miyuki's Beanies/Products.html",
+		"/C/Users/Patrick/Desktop/nisekojapow.github.io/index.html",
+		"/C/Users/Patrick/Desktop/NisekoJapow.github.io/Index.html",
+		"/D/Webpage Practice/Miyuki's Beanies/Products-Headbands.html",
+		"/D/Webpage Practice/Miyuki's Beanies/Products-Beanies.html",
+		"/D/Webpage Practice/Miyuki's Beanies/Contact.html",
+		"/C/Users/Patrick/Desktop/nisekojapow.github.io/About.html",
+		"/D/Webpage Practice/Miyuki's Beanies/About.html",
+		"/D/Webpage Practice/Miyuki's Beanies/Miyuki's Website.sublime-project",
+		"/D/Webpage Practice/Miyuki's Beanies/Index.html",
+		"/D/Webpage Practice/Miyuki's Beanies/Scripts/Main.js",
+		"/C/Users/Patrick/Desktop/NisekoJapow.github.io/Products.html",
+		"/D/Webpage Practice/Miyuki's Beanies/Gallery.html",
+		"/D/Webpage Practice/beginner-html-site-styled-gh-pages/index.html",
+		"/D/Webpage Practice/Miyuki's Beanies/Main.js",
+		"/D/Webpage Practice/Miyuki's Beanies/Styles/Products.css",
+		"/D/Webpage Practice/Miyuki's Beanies/Styles/Gallery and Products Style.css",
+		"/D/Webpage Practice/Miyuki's Beanies/Styles/About.css",
+		"/D/Webpage Practice/Miyuki's Beanies/Styles/Main.css",
+		"/D/Webpage Practice/Miyuki's Beanies/Styles/Gallery Style.css",
+		"/D/Webpage Practice/Miyuki's Beanies/Styles/Javascript.js",
+		"/D/Webpage Practice/Miyuki's Beanies/Styles/Contact.css",
+		"/D/Webpage Practice/Miyuki's Beanies/Gallery",
+		"/D/Webpage Practice/Miyuki's Beanies/Index",
+		"/C/Users/Patrick/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Patrick/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/Patrick/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/C/Users/Patrick/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/D/Webpage Practice/Miyuki's Beanies/About",
+		"/D/Webpage Practice/Miyuki's Beanies 2/Index",
+		"/D/Webpage Practice/Miyuki's Beanies/Styles/Gallery.css",
+		"/D/Webpage Practice/Miyuki's Beanies/Styles/Gallery",
+		"/D/Webpage Practice/Miyuki's Beanies/Miyuki's Website.sublime-workspace",
+		"/C/Users/Patrick/AppData/Roaming/Sublime Text 3/Packages/Emmet/Default (Windows).sublime-keymap",
+		"/C/Users/Patrick/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/D/Webpage Practice/Mituki's Beanies/Index",
+		"/D/Webpage Practice/Mituki's Beanies/Styles/Main.css",
+		"/D/Webpage Practice/Mituki's Beanies/Page 1.html",
+		"/C/Users/Patrick/Desktop/Sublime Text 3.lnk",
+		"/C/Users/Patrick/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Patrick/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/D/Webpage Practice/Index"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Styles/Main.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1059,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								552,
+								552
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 373.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Miyuki's Website.sublime-project",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 45,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Products-Beanies.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4521,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3807,
+								3807
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2264.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Products-Headbands.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3670,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3670,
+								3670
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2322.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 624,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								605,
+								605
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 44.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "Products.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1235,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								915,
+								915
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 556.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 70.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Miyuki's Website.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 196.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
